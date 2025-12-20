@@ -1,4 +1,4 @@
-package com.example.notificationservice.dto;
+package com.example.javadp.creational.factory.notificationservice.dto;
 
 public class NotificationRequest {
     private String type;

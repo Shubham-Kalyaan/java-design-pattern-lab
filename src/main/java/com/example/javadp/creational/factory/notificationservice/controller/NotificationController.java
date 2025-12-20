@@ -1,7 +1,7 @@
-package com.example.notificationservice.controller;
+package com.example.javadp.creational.factory.notificationservice.controller;
 
-import com.example.notificationservice.dto.NotificationRequest;
-import com.example.notificationservice.service.interfaces.INotificationService;
+import com.example.javadp.creational.factory.notificationservice.dto.NotificationRequest;
+import com.example.javadp.creational.factory.notificationservice.service.interfaces.INotificationService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
