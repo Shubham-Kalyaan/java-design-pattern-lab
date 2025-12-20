@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>notification-service</artifactId>
+	<artifactId>java-design-patterns-lab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>notification-service</name>
-	<description>Demo project for Spring Boot</description>
+	<name>java-design-patterns-lab</name>
+	<description>Sprig boot project to show all design patterns and their use cases</description>
 	<url/>
 	<licenses>
 		<license/>
