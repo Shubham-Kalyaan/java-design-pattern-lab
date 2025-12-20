@@ -1,3 +1,9 @@
+
+---
+
+## ✅ STEP 4: Add Short Explanation (Highly Recommended)
+
+<pre>
 java-design-pattern-lab
 │
 ├── README.md
@@ -55,3 +61,25 @@ java-design-pattern-lab
 │
 └── resources
 └── application.properties
+
+</pre>
+
+```md
+### 📌 Structure Explanation
+
+- **api**  
+  Contains REST controllers. Controllers expose use-cases and never depend
+  directly on design pattern implementations.
+
+- **creational / structural / behavioral**  
+  Contains pure Java implementations of GoF design patterns.
+
+- **architecture**  
+  Demonstrates higher-level architectural patterns such as Modulith,
+  Microservices, Hexagonal Architecture, etc.
+
+- **common**  
+  Shared utilities, configuration, and exception handling.
+
+This separation ensures that **design patterns remain implementation details**
+and **APIs remain clean and realistic**.
